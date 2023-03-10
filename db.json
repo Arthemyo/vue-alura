@@ -1,0 +1,50 @@
+{
+  "projetos": [
+    {
+      "id": 1,
+      "nome": "Projeto Alura 2.0"
+    },
+    {
+      "nome": "ByteBank",
+      "id": 2
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "duracaoEmSegundos": 120,
+      "descricao": "Configuração do ambiente 2.0",
+      "projeto": {
+        "id": 1,
+        "nome": "Projeto Alura 2.0"
+      }
+    },
+    {
+      "duracaoEmSegundos": 11,
+      "descricao": "Estudando Vue3",
+      "projeto": {
+        "id": 1,
+        "nome": "Projeto Alura 2.0"
+      },
+      "id": 2
+    },
+    {
+      "duracaoEmSegundos": 5,
+      "descricao": "Estudando Alura",
+      "projeto": {
+        "id": 1,
+        "nome": "Projeto Alura 2.0"
+      },
+      "id": 3
+    },
+    {
+      "duracaoEmSegundos": 4,
+      "descricao": "Teste",
+      "projeto": {
+        "id": 1,
+        "nome": "Projeto Alura 2.0"
+      },
+      "id": 4
+    }
+  ]
+}
